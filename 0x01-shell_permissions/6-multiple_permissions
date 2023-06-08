@@ -1,3 +1,4 @@
 #!/bin/bash
-chown ug+x, o+r hello
+chmod ug+x, o+r hello
+
 
